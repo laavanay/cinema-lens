@@ -1,5 +1,5 @@
 """
-Django settings for CinemaLens
+Django settings for cinema-lens
 Production-ready configuration with environment-based settings
 """
 import os

@@ -1,4 +1,4 @@
-# 🎬 CinemaLens
+# 🎬 cinema-lens
 
 > An AI-powered movie recommendation system built with Django and advanced machine learning. Discover your next favorite film with intelligent content-based filtering.
 
@@ -242,7 +242,7 @@ Uses the included `Procfile`.
 
 ## 📑 Resume Overview
 
-### **CinemaLens | AI-Powered Movie Recommendation System**
+### **cinema-lens**
 *Lead Developer / AI Engineer*
 
 Developed a high-performance movie recommendation platform using Django and scikit-learn, capable of delivering personalized suggestions with sub-50ms latency.

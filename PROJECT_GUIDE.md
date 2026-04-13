@@ -1,4 +1,4 @@
-# 📘 CinemaLens - Complete Project Guide
+# 📘 cinema-lens - Complete Project Guide
 
 > **Comprehensive technical documentation** for developers, covering installation, configuration, development, deployment, and troubleshooting.
 
@@ -41,7 +41,7 @@
 
 ## 🎯 Overview
 
-This guide provides comprehensive documentation for CinemaLens, a production-ready Django application that delivers intelligent movie recommendations using advanced machine learning algorithms.
+This guide provides comprehensive documentation for cinema-lens, a production-ready Django application that delivers intelligent movie recommendations using advanced machine learning algorithms.
 
 ### What This Guide Covers
 
@@ -151,7 +151,7 @@ Open your browser and navigate to:
 http://localhost:8000
 ```
 
-You should see the CinemaLens home page. ✅
+You should see the cinema-lens home page. ✅
 
 ---
 

@@ -1,6 +1,6 @@
 # Changelog
 
-> All notable changes to CinemaLens are documented in this file.
+> All notable changes to cinema-lens are documented in this file.
 
 This project follows [Semantic Versioning](https://semver.org/) and the changelog format is based on [Keep a Changelog](https://keepachangelog.com/).
 
